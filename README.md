@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a high school student.
-- 🌱 I’m currently learning machine learning and android app development
-- 👯 I’m looking to collaborate on anything to do with machine learning or robotics
+- 🔭 I’m a Freshman at the University of Washington, Seattle, studying Computer Science and Applied & Computational Mathematical Sciences.
+- 🌱 I’m currently learning Deep Learning, Natural Language Processing (NLP), System Design, Databases, and App Development with Flutter, as well as Data Structures and Algorithms (DSA).
+- 💻 Active Competitive Programmer (Codeforces, AtCoder, CodeChef) and Mathlete (Project Euler, Olympiad Math, Putnam).
+- 🤝 I’m looking to collaborate on projects involving Machine Learning, System Design, or App Development.
 - 📫 How to reach me: samyagj@outlook.com
-- ⚡ Fun fact: Enjoy competitive math, robotics, coding, physics, and weightlifting.
+- ⚡ Fun fact: I enjoy competitive math, robotics, coding, physics, hiking, and weightlifting.
+
 
