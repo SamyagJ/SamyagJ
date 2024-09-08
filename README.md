@@ -5,6 +5,6 @@
 - 💻 Active Competitive Programmer (Codeforces, AtCoder, CodeChef) and Mathlete (Project Euler, Olympiad Math, Putnam).
 - 🤝 I’m looking to collaborate on projects involving Machine Learning, System Design, or App Development.
 - 📫 How to reach me: samyagj@outlook.com
-- ⚡ Fun fact: I enjoy competitive math, robotics, coding, physics, hiking, and weightlifting.
+- ⚡ Fun fact: Avid hiker and weightlifter
 
 
