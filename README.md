@@ -2,12 +2,13 @@
 
 **Projects:**
 
-->EigenTorch - Low-latency CNN framework in pure C++
+-> EigenTorch - Low-latency CNN framework in pure C++
 
 -> https://productreevity.vercel.app/
 
 **Research:**
-https://github.com/SamyagJ/ResearchPapers/blob/main/Linear%20Algebra%20Paper.pdf
+
+-> https://github.com/SamyagJ/ResearchPapers/blob/main/Linear%20Algebra%20Paper.pdf
 
 **Deep diving:** ML Infra, Systems Programming/OS, Optimization Algorithms
 
