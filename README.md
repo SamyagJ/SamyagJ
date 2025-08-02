@@ -4,11 +4,11 @@
 
 -> EigenTorch - Low-latency CNN framework in pure C++
 
--> https://productreevity.vercel.app/
+-> Gamified Productivity App - https://productreevity.vercel.app/
 
 **Research:**
 
--> https://github.com/SamyagJ/ResearchPapers/blob/main/Linear%20Algebra%20Paper.pdf
+-> Graph Theory Analysis of Knight Movement - https://github.com/SamyagJ/ResearchPapers/blob/main/Linear%20Algebra%20Paper.pdf
 
 **Deep diving:** ML Infra, Systems Programming/OS, Optimization Algorithms
 
