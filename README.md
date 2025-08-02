@@ -1,9 +1,10 @@
 **Math + CS @ UW** | **Building ML systems**
 
 **Projects:**
-EigenTorch - Low-latency CNN framework in pure C++
 
-https://productreevity.vercel.app/
+->EigenTorch - Low-latency CNN framework in pure C++
+
+-> https://productreevity.vercel.app/
 
 **Research:**
 https://github.com/SamyagJ/ResearchPapers/blob/main/Linear%20Algebra%20Paper.pdf
