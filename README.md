@@ -9,7 +9,7 @@
 
 **Deep diving:** ML infra, low-latency systems, distributed computing, systems programming(linux kernel dev), quant/HFT(CNN for order books, NLP for sentiment)
 
-**Hobbies:** Project Euler, Putnam, competitive programming
+**Hobbies:** Project Euler, Putnam, CP
 
 **When not coding:** Hiking PNW trails and lifting
 
