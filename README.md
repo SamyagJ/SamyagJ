@@ -14,4 +14,5 @@ https://github.com/SamyagJ/ResearchPapers/blob/main/Linear%20Algebra%20Paper.pdf
 **Hobbies:** Project Euler, Putnam
 
 **When not coding:** hiking PNW trails and lifting
+
 Feel Free To Reach Out: samyagjhaveri@gmail.com
