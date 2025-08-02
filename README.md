@@ -7,7 +7,7 @@
 **Research:**
 - **Knight Movement Analysis** - Graph theory approach using linear algebra [Paper](https://github.com/SamyagJ/ResearchPapers/blob/main/Linear%20Algebra%20Paper.pdf)
 
-**Deep diving:** ML infra, low-latency systems, distributed computing, systems programming(linux kernel dev), quant/HFT(CNN for order books, NLP for sentiment)
+**Deep diving:** ML infra, low-latency systems, distributed computing, systems programming, quant/HFT
 
 **Hobbies:** Project Euler, Putnam, CP
 
