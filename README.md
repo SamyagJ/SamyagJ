@@ -3,7 +3,7 @@
 **Projects:**
 EigenTorch - Low-latency CNN framework in pure C++
 
-productreevity.vercel.app
+https://productreevity.vercel.app/
 
 **Research:**
 https://github.com/SamyagJ/ResearchPapers/blob/main/Linear%20Algebra%20Paper.pdf
