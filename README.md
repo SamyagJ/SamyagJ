@@ -1,19 +1,14 @@
-**Math + CS @ UW** | **Building ML systems**
+Math + CS @ UW | Building ML systems
+Projects:
 
-**Projects:**
+EigenTorch - Low-latency CNN framework in pure C++
+Productreevity - Gamified productivity app [Live] [Repo]
 
--> EigenTorch - Low-latency CNN framework in pure C++
+Research:
 
--> Gamified Productivity App - https://productreevity.vercel.app/, repo: https://github.com/SamyagJ/Productreevity
+Knight Movement Analysis - Graph theory approach using linear algebra [Paper]
 
-**Research:**
-
--> Graph Theory Analysis of Knight Movement - https://github.com/SamyagJ/ResearchPapers/blob/main/Linear%20Algebra%20Paper.pdf
-
-**Deep diving:** ML Infra, Systems Programming/OS, Optimization Algorithms
-
-**Hobbies:** Project Euler, Putnam, CP
-
-**When not coding:** hiking PNW trails and lifting
-
-Feel Free To Reach Out: samyagjhaveri@gmail.com
+Deep diving: ML infrastructure, systems programming, optimization algorithms
+Hobbies: Project Euler, Putnam, competitive programming
+When not coding: Hiking PNW trails and lifting
+📧 samyagjhaveri@gmail.com
