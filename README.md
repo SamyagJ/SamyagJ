@@ -4,7 +4,7 @@
 
 -> EigenTorch - Low-latency CNN framework in pure C++
 
--> Gamified Productivity App - https://productreevity.vercel.app/
+-> Gamified Productivity App - https://productreevity.vercel.app/, repo: https://github.com/SamyagJ/Productreevity
 
 **Research:**
 
